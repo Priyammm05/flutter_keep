@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "87215047808",
+    "project_id": "flutterkeep-f785a",
+    "storage_bucket": "flutterkeep-f785a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87215047808:android:e16cfebc9c17781bf75265",
+        "android_client_info": {
+          "package_name": "com.example.flutter_keep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87215047808-50u5ufbfn1kmpl3h25ut3npt5n1qcop4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_keep",
+            "certificate_hash": "37736abdd48c8e660f23590d6568408ab0173825"
+          }
+        },
+        {
+          "client_id": "87215047808-2sv6c7o281381uoeciovpcnhfofc8oki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9dphmrR16QRHyOAE7kfHQ_VYaBd-VGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87215047808-2sv6c7o281381uoeciovpcnhfofc8oki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
